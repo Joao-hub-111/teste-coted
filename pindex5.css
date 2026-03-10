@@ -1,0 +1,33 @@
+
+.formatacao-texto{
+    color: white;
+    font-family: Arial;
+}
+
+.formatacao-caixa{
+    background-color: green;
+    width: 150px;
+    height: 100px; 
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.formatacao-borda{
+    border-top: 2px dashed blue;
+    border-left: 2px dotted yellow;
+    border-bottom: 2px double red;
+    border-right: none;
+}
+
+.tamanho-imagem{
+    width: 150px;
+    height: 100px;
+}
+
+.imagem-1{
+    padding-left: 120px;
+}
+
+.imagem-2{
+    padding-left: 240px;
+}
